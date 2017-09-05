@@ -47,7 +47,7 @@ public class Main
 
       }
 
-      System.out.print( "\nPut down the domino: " );
+      System.out.print("Put down the domino: ");
       String input = scanner.next();
 
 
@@ -63,7 +63,7 @@ public class Main
         gameStart = false;
       }
 
-      
+
     }
 
   }
