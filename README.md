@@ -2,7 +2,7 @@
 initiated in Sep.5th
 
 -------------------------------------------------------
-You can download executable jar file <b>Domino_jshin.jar<b> to play
+You can download executable jar file <b>Domino_jshin.jar</b> to play
 
 How to Control:
 
